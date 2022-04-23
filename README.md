@@ -3,7 +3,7 @@
 
 <!-- <a href="https://victoria-gudoit.github.io/Axit/" target="_blank">Watch Demo</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
 
-## ⭐️ Adaptive:
+<!-- ## ⭐️ Adaptive: -->
 
 <p align="center">
 
